@@ -1,7 +1,6 @@
 ---
 permalink: /impressum/
 title: "Imprint / Legal Notice"
-modified: 2020-05-03
 ---
 
 {% include base_path %}
