@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hendrik Schuff"
 title_separator          : "-"
 name                     : &name "Hendrik Schuff"
-description              : &description "PhD Candidate at University of Stuttgart and BCAI"
+description              : &description "PhD Student"
 url                      : https://hendrikschuff.de # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hschuff/hschuff.github.io"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/hendrik-schuff-044036156/"
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
