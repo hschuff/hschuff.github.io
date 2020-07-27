@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Under construction ..."
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-... please visit again soon!
+I'm a PhD candidate at the [Bosch Center for Artificial Intelligence](www.bosch-ai.com) and the [Institute for Natural Language Processing](https://www.ims.uni-stuttgart.de/en/) at the [University of Stuttgart](https://www.uni-stuttgart.de/en/).
+
+I work on explainable AI, natural language processing and human-computer interaction.
