@@ -23,11 +23,15 @@ Tilman Beck, <strong>Hendrik Schuff</strong>, Anne Lauscher, Iryna Gurevych
 
 Sheng Lu, <strong>Hendrik Schuff</strong>, Iryna Gurevych  
 <strong>[How are Prompts Different in Terms of Sensitivity?](https://arxiv.org/abs/2311.07230)</strong>  
-<i>Accepted to NAACL 2024</i>
+<i>NAACL 2024</i>
 
 Wei Zhou, Heike Adel, <strong>Hendrik Schuff</strong>, Ngoc Thang Vu  
 <strong>[Explaining Pre-Trained Language Models with Attribution Scores: An Analysis in Low-Resource Settings.](https://arxiv.org/abs/2403.05338)</strong>  
-<i>Accepted to LREC-COLING 2024</i>
+<i>LREC-COLING 2024</i>
+
+Hovhannes Tamoyan, <strong>Hendrik Schuff</strong>, Iryna Gurevych  
+<strong>[LLM Roleplay: Simulating Human-Chatbot Interaction](https://arxiv.org/abs/2407.03974)</strong>  
+<i>Under submission</i>
 
 2023
 ----
