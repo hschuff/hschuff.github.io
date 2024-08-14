@@ -23,7 +23,7 @@ Tilman Beck, <strong>Hendrik Schuff</strong>, Anne Lauscher, Iryna Gurevych
 
 Sheng Lu, <strong>Hendrik Schuff</strong>, Iryna Gurevych  
 <strong>[How are Prompts Different in Terms of Sensitivity?](https://arxiv.org/abs/2311.07230)</strong>  
-<i>NAACL 2024</i>
+<i>NAACL 2024</i><\br>
 <i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>[Data and code](https://github.com/UKPLab/naacl2024-prompt-sensitivity).
 
 Wei Zhou, Heike Adel, <strong>Hendrik Schuff</strong>, Ngoc Thang Vu  
@@ -32,7 +32,7 @@ Wei Zhou, Heike Adel, <strong>Hendrik Schuff</strong>, Ngoc Thang Vu
 
 Hovhannes Tamoyan, <strong>Hendrik Schuff</strong>, Iryna Gurevych  
 <strong>[LLM Roleplay: Simulating Human-Chatbot Interaction](https://arxiv.org/abs/2407.03974)</strong>  
-<i>Under submission</i>
+<i>Under submission</i><\br>
 <i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>[Code](https://github.com/UKPLab/llm-roleplay).
 
 2023
