@@ -14,6 +14,9 @@ You can also find my articles on <a href="{{site.author.googlescholar}}">my Goog
 
 2024
 ----
+<strong>Hendrik Schuff</strong>, Heike Adel, Ngoc Thang Vu  
+<strong>[Thought Flow Nets: From Single Predictions to Trains of Model Thought](https://doi.org/10.1017/nlp.2024.41 )</strong>  
+<i>Natural Language Processing.</i>
 
 Tilman Beck, <strong>Hendrik Schuff</strong>, Anne Lauscher, Iryna Gurevych  
 <strong>[Sensitivity, Performance, Robustness: Deconstructing the Effect of Sociodemographic Prompting.](https://arxiv.org/abs/2309.07034)</strong>  
@@ -67,11 +70,7 @@ Alon Jacovi, <strong>Hendrik Schuff</strong>, Heike Adel, Ngoc Thang Vu, Yoav Go
 
 <strong>Hendrik Schuff</strong>, Hsiu-Yu Yang, Heike Adel, Ngoc Thang Vu  
 <strong>[Does External Knowledge Help Explainable Natural Language Inference? Automatic Evaluation vs. Human Ratings](https://aclanthology.org/2021.blackboxnlp-1.3/)</strong>  
-<i>BlackboxNLP 2021.</i>  
-
-<strong>Hendrik Schuff</strong>, Heike Adel, Ngoc Thang Vu  
-<strong>[Thought Flow Nets: From Single Predictions to Trains of Model Thought](https://arxiv.org/abs/2107.12220)</strong>  
-<i>Under review.</i>  
+<i>BlackboxNLP 2021.</i>
 
 2020
 ----
