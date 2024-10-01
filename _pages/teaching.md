@@ -4,12 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
-## Current Teaching (summer 2024)
+## Past Teaching
 
 * "Deep Learning for Natural Language Processing" lecture at TU Darmstadt together with Thomas Arnold.
-
-## Past Teaching
 * Guest lecture within the "Foundations of Language Technology" lecture at TU Darmstadt.
 * Invited lecture on "Explainable AI" at the Hochschule der Medien in Stuttgart.
 * Invited lecture on "Explainable AI" at University of Applied Sciences Karlsruhe.
