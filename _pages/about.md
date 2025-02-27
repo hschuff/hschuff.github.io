@@ -18,7 +18,8 @@ Currently, my work focuses on how the behavior of AI systems (in particular larg
 users and how AI systems can be evaluated in a meaningful and responsible way.
 
 ## News
-* [2024-10-01] I joined [Zurich Insurance](https://www.zurich.com/) as a Data Scientist today.
+* [2025-02-27] I am serving as an Area Chair for [ACL'25](https://2025.aclweb.org/).
+* [2024-10-01] I joined [Zurich Insurance](https://www.zurich.com/) as a Data Scientist.
 * [2024-05-22] I will give a pop science talk about "Chatbots: Chancen, Risiken und aktuelle Trends" at the [Kulturkreis Eppstein e.V.](https://www.kk-eppstein.de/wissenschaftundtechnik) on the 12th of June 2024.
 * [2024-03-25] I will be giving the "Deep Learning for Natural Language Processing lecture" at TU Darmstadt together with Thomas Arnold in the upcoming summer term.
 * [2024-03-20] Our EACL'24 paper [Sensitivity, Performance, Robustness: Deconstructing the Effect of Sociodemographic Prompting](https://aclanthology.org/2024.eacl-long.159/) received the <i class="fas fa-fw fa-trophy icon-pad-right" aria-hidden="true"></i> [Social Impact Award](https://2024.eacl.org/program/best-paper/).
