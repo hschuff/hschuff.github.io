@@ -13,9 +13,8 @@ Before that, I was a Postdoc at [UKP Lab](https://www.informatik.tu-darmstadt.de
 PhD student at the [Bosch Center for Artificial Intelligence](http://www.bosch-ai.com) and the [Institute for Natural Language Processing](https://www.ims.uni-stuttgart.de/en/) at the [University of Stuttgart](https://www.uni-stuttgart.de/en/) before.
 
 ## Research Interests
-I work on the intersection of natural language processing (NLP) and human-computer interaction (HCI).  
-Currently, my work focuses on how the behavior of AI systems (in particular large language models) can be explained to human
-users and how AI systems can be evaluated in a meaningful and responsible way.
+I work at the intersection of AI (in particular NLP) and human-computer interaction (HCI).  
+Currently, my work focuses on how humans interact with AI systems (in particular large language models) and how AI's "behaviour" can be explained to humans and evaluated in a meaningful and responsible way.
 
 ## News
 * [2025-06-16] I will be giving the "AI in Practice" ("KI in der Praxis") lecture at [Hochschule der Medien Stuttgart](https://www.hdm-stuttgart.de/en) in the upcoming winter semester.
