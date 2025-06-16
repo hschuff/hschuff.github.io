@@ -11,6 +11,12 @@ You can also find my articles on <a href="{{site.author.googlescholar}}">my Goog
 
 {% include base_path %}
 
+2025
+----
+Hovhannes Tamoyan, <strong>Hendrik Schuff</strong>, Iryna Gurevych  
+<strong>[LLM Roleplay: Simulating Human-Chatbot Interaction](https://arxiv.org/abs/2407.03974)</strong>  
+<i>Accepted at [SICon 2025](https://sites.google.com/view/sicon2025)</i>  
+<i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>[Code](https://github.com/UKPLab/llm-roleplay).
 
 2024
 ----
@@ -32,11 +38,6 @@ Sheng Lu, <strong>Hendrik Schuff</strong>, Iryna Gurevych
 Wei Zhou, Heike Adel, <strong>Hendrik Schuff</strong>, Ngoc Thang Vu  
 <strong>[Explaining Pre-Trained Language Models with Attribution Scores: An Analysis in Low-Resource Settings.](https://arxiv.org/abs/2403.05338)</strong>  
 <i>LREC-COLING 2024</i>
-
-Hovhannes Tamoyan, <strong>Hendrik Schuff</strong>, Iryna Gurevych  
-<strong>[LLM Roleplay: Simulating Human-Chatbot Interaction](https://arxiv.org/abs/2407.03974)</strong>  
-<i>Under submission</i>  
-<i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>[Code](https://github.com/UKPLab/llm-roleplay).
 
 2023
 ----
