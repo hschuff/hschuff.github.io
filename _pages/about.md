@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Scientist at [Zurich Insurance](https://www.zurich.com/).
+I am a Senior Data Scientist at [Zurich Insurance](https://www.zurich.com/).
 Before that, I was a Postdoc at [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) at TU Darmstadt and a
 PhD student at the [Bosch Center for Artificial Intelligence](http://www.bosch-ai.com) and the [Institute for Natural Language Processing](https://www.ims.uni-stuttgart.de/en/) at the [University of Stuttgart](https://www.uni-stuttgart.de/en/) before.
 
