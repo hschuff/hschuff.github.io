@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Upcoming Teaching
-* **AI in Practice** (KI in der Praxis) lecture at [Hochschule der Medien Stuttgart](https://www.hdm-stuttgart.de/en).
+* **[AI in Practice (KI in der Praxis)](https://www.hdm-stuttgart.de/vorlesung_detail?vorlid=5216508)** lecture at [Hochschule der Medien Stuttgart](https://www.hdm-stuttgart.de/en).
 
 ## Past Teaching
 
