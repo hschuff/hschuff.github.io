@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 I am a Senior Data Scientist at [Zurich Insurance](https://www.zurich.com/) working on human-AI interaction.
-I currently hold a teaching appointment as Lecturer at [Hochschule der Medien Stuttgart](https://www.hdm-stuttgart.de/en).
 
 Before that, I was a Postdoc at [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) at TU Darmstadt and a
 PhD student at the [Bosch Center for Artificial Intelligence](http://www.bosch-ai.com) and the [Institute for Natural Language Processing](https://www.ims.uni-stuttgart.de/en/) at the [University of Stuttgart](https://www.uni-stuttgart.de/en/) before.
+I held a teaching appointment as Lecturer at [Hochschule der Medien Stuttgart](https://www.hdm-stuttgart.de/en) in 2025/2026.
 
 ## Research Interests
-I work at the intersection of AI (in particular NLP) and human-computer interaction (HCI).
-My work focuses on how we can improve humans' interaction with AI systems (in particular large language models) and how AI's "behaviour" can be explained to humans and evaluated in a meaningful and responsible way.
+I work at the intersection of AI and human-computer interaction (HCI).
+My work focuses on how we can improve humans' interaction with AI systems and how AI's "behavior" can be explained to humans and evaluated in a meaningful and responsible way.
 
 ## News
 * [2025-06-16] I will be giving the [AI in Practice (KI in der Praxis)](https://www.hdm-stuttgart.de/vorlesung_detail?vorlid=5216508) lecture at [Hochschule der Medien Stuttgart](https://www.hdm-stuttgart.de/en) in the upcoming winter semester.

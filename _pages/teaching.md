@@ -5,10 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Upcoming Teaching
-* **[AI in Practice (KI in der Praxis)](https://www.hdm-stuttgart.de/vorlesung_detail?vorlid=5216508)** lecture at [Hochschule der Medien Stuttgart](https://www.hdm-stuttgart.de/en).
-
 ## Past Teaching
+* **[AI in Practice (KI in der Praxis)](https://www.hdm-stuttgart.de/vorlesung_detail?vorlid=5216508)** lecture at [Hochschule der Medien Stuttgart](https://www.hdm-stuttgart.de/en).
 
 * **Deep Learning for Natural Language Processing** lecture at [TU Darmstadt](https://www.tu-darmstadt.de/index.en.jsp) together with Thomas Arnold.
 * Guest lecture within the **Foundations of Language Technology** lecture at [TU Darmstadt](https://www.tu-darmstadt.de/index.en.jsp).
